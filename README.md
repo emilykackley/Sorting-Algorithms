@@ -12,3 +12,5 @@
 ## Merge Sort
   - Merge sort is a recursive algorithm that uses the divide-and-conquer concept by splitting the data at its midpoint, then continue to split the data and recursively sort the subdata. Next, combine the sorted subdata back into the single sorted subdata
 
+## Quick Sort
+  - Quick sort is a divide-and-conquer algorithm. It chooses and element as pivot and partitions the array around the selected pivot point. The pivot point can be selected as always the first element, always, the last element, a random element, or the median. I have used the last element as the pivot point. This algorithm recursively partitions and sorts the array.
