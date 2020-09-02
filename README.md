@@ -3,6 +3,9 @@
 ## Bubble Sort
   - Bubble sort is an algorithm that repeatedly swaps the adjacent elements if they are in the wrong order. It is the simplest sorting algorithm and will need one full pass through the elements without any elements swapping to complete sorting. 
   
+## Count Sort
+  - Count sort is an algorithm based on keys within a specific range that counts the numbers of objects having distinct keys, then calculates the positioin of each object in the output array
+  
 ## Heap Sort
   - Heap sort is an algorithm that sorts in place and uses the heap data structure to manage information with max-heap. Build a max-heap from data. With the largest item now stored at the root, replace it with the last item and reduce heap size by 1. Heapify root of the tree and repeat the last 2 steps while the heap size is greater than 1.
   
