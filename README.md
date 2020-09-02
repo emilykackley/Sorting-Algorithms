@@ -17,3 +17,7 @@
 
 ## Quick Sort
   - Quick sort is a divide-and-conquer algorithm. It chooses and element as pivot and partitions the array around the selected pivot point. The pivot point can be selected as always the first element, always, the last element, a random element, or the median. I have used the last element as the pivot point. This algorithm recursively partitions and sorts the array.
+
+## Radix Sort
+  - Radix sort is an algorithm only used to sort numbers. It sorts the numbers from least significant digit, to most significant digit and uses counting sort as a subroutine to sort
+  
