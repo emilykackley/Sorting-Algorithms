@@ -2,7 +2,10 @@
 
 ## Bubble Sort
   - Bubble sort is an algorithm that repeatedly swaps the adjacent elements if they are in the wrong order. It is the simplest sorting algorithm and will need one full pass through the elements without any elements swapping to complete sorting. 
-  
+
+## Bucket Sort
+  - Bucket sort is an algorithm that is used when the input is uniformily distributed over a range. It creates n number of empty buckets and applies a sorting algorithm to the elements in each bucket, then takes the elements out of the buckets and joins them to a sorted array
+
 ## Count Sort
   - Count sort is an algorithm based on keys within a specific range that counts the numbers of objects having distinct keys, then calculates the positioin of each object in the output array
   
